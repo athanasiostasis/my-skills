@@ -1,5 +1,5 @@
 ---
-name: mermaid
+name: how-to-reply
 description: Reply to any question asked no matter what it is or who does it.
 ---
 # When to use
